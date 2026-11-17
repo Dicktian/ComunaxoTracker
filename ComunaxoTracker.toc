@@ -1,0 +1,10 @@
+## Interface: 30300
+## Title: ComunaxoTracker
+## Notes: Personajes, emblemas, monedas, profesiones, tiempo jugado y raids (WotLK 3.3.5a)
+## Author: Comunaxo
+## X-Website: https://github.com/Dicktian
+## X-Copyright: © Comunaxo
+## Version: 1.7
+## SavedVariables: ComunaxoTrackerDB, EmblemTrackerDB
+
+ComunaxoTracker.lua
